@@ -1,0 +1,45 @@
+2026-11-20 10:05:00 INFO storage: write ok /var/data/242.bin 7ms
+2026-11-20 10:05:01 INFO storage: write ok /var/data/318.bin 5ms
+2026-11-20 10:05:02 INFO storage: write ok /var/data/79.bin 11ms
+2026-11-20 10:05:03 INFO storage: write ok /var/data/615.bin 39ms
+2026-11-20 10:05:04 INFO storage: write ok /var/data/33.bin 17ms
+2026-11-20 10:05:05 INFO storage: write ok /var/data/995.bin 31ms
+2026-11-20 10:05:06 INFO storage: write ok /var/data/299.bin 44ms
+2026-11-20 10:05:07 INFO storage: write ok /var/data/270.bin 14ms
+2026-11-20 10:05:08 ERROR scheduler: job 988 failed: IOError writing checkpoint
+2026-11-20 10:05:09 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:10 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:11 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:12 ERROR storage: disk usage 99% on /dev/sda1
+2026-11-20 10:05:13 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:14 ERROR scheduler: job 759 failed: IOError writing checkpoint
+2026-11-20 10:05:15 ERROR storage: disk usage 100% on /dev/sda1
+2026-11-20 10:05:16 ERROR scheduler: job 735 failed: IOError writing checkpoint
+2026-11-20 10:05:17 ERROR storage: disk usage 100% on /dev/sda1
+2026-11-20 10:05:18 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:19 ERROR scheduler: job 832 failed: IOError writing checkpoint
+2026-11-20 10:05:20 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:21 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:22 ERROR storage: disk usage 100% on /dev/sda1
+2026-11-20 10:05:23 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:24 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:25 ERROR scheduler: job 693 failed: IOError writing checkpoint
+2026-11-20 10:05:26 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:27 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:28 ERROR scheduler: job 236 failed: IOError writing checkpoint
+2026-11-20 10:05:29 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:30 ERROR scheduler: job 577 failed: IOError writing checkpoint
+2026-11-20 10:05:31 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:32 ERROR storage: disk usage 100% on /dev/sda1
+2026-11-20 10:05:33 ERROR scheduler: job 855 failed: IOError writing checkpoint
+2026-11-20 10:05:34 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:35 ERROR scheduler: job 792 failed: IOError writing checkpoint
+2026-11-20 10:05:36 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:37 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:38 ERROR scheduler: job 405 failed: IOError writing checkpoint
+2026-11-20 10:05:39 ERROR scheduler: job 427 failed: IOError writing checkpoint
+2026-11-20 10:05:40 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:41 ERROR storage: write failed on /var/data: No space left on device
+2026-11-20 10:05:42 ERROR scheduler: job 964 failed: IOError writing checkpoint
+2026-11-20 10:05:43 ERROR scheduler: job 407 failed: IOError writing checkpoint
+2026-11-20 10:05:44 ERROR scheduler: job 207 failed: IOError writing checkpoint

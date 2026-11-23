@@ -1,0 +1,42 @@
+2026-11-20 10:05:00 INFO monitor: heartbeat ok node-1
+2026-11-20 10:05:01 INFO monitor: heartbeat ok node-4
+2026-11-20 10:05:02 INFO monitor: heartbeat ok node-2
+2026-11-20 10:05:03 INFO monitor: heartbeat ok node-2
+2026-11-20 10:05:04 INFO monitor: heartbeat ok node-4
+2026-11-20 10:05:05 INFO monitor: heartbeat ok node-1
+2026-11-20 10:05:06 ERROR worker: out of memory: cannot allocate 677MB
+2026-11-20 10:05:07 WARN cache: eviction pressure high, 91% memory used
+2026-11-20 10:05:08 WARN cache: eviction pressure high, 85% memory used
+2026-11-20 10:05:09 WARN cache: eviction pressure high, 86% memory used
+2026-11-20 10:05:10 WARN cache: eviction pressure high, 86% memory used
+2026-11-20 10:05:11 ERROR worker: out of memory: cannot allocate 813MB
+2026-11-20 10:05:12 ERROR orchestrator: container worker-3 exited with code 137 (OOMKilled)
+2026-11-20 10:05:13 ERROR orchestrator: container worker-1 exited with code 137 (OOMKilled)
+2026-11-20 10:05:14 ERROR orchestrator: container worker-2 exited with code 137 (OOMKilled)
+2026-11-20 10:05:15 WARN cache: eviction pressure high, 96% memory used
+2026-11-20 10:05:16 WARN cache: eviction pressure high, 93% memory used
+2026-11-20 10:05:17 WARN cache: eviction pressure high, 90% memory used
+2026-11-20 10:05:18 ERROR orchestrator: container worker-2 exited with code 137 (OOMKilled)
+2026-11-20 10:05:19 ERROR orchestrator: container worker-2 exited with code 137 (OOMKilled)
+2026-11-20 10:05:20 ERROR orchestrator: container worker-2 exited with code 137 (OOMKilled)
+2026-11-20 10:05:21 ERROR worker: out of memory: cannot allocate 816MB
+2026-11-20 10:05:22 ERROR orchestrator: container worker-4 exited with code 137 (OOMKilled)
+2026-11-20 10:05:23 WARN cache: eviction pressure high, 94% memory used
+2026-11-20 10:05:24 ERROR worker: out of memory: cannot allocate 458MB
+2026-11-20 10:05:25 ERROR worker: out of memory: cannot allocate 185MB
+2026-11-20 10:05:26 ERROR worker: out of memory: cannot allocate 340MB
+2026-11-20 10:05:27 ERROR orchestrator: container worker-4 exited with code 137 (OOMKilled)
+2026-11-20 10:05:28 ERROR orchestrator: container worker-2 exited with code 137 (OOMKilled)
+2026-11-20 10:05:29 ERROR worker: out of memory: cannot allocate 682MB
+2026-11-20 10:05:30 ERROR orchestrator: container worker-4 exited with code 137 (OOMKilled)
+2026-11-20 10:05:31 WARN cache: eviction pressure high, 91% memory used
+2026-11-20 10:05:32 ERROR orchestrator: container worker-2 exited with code 137 (OOMKilled)
+2026-11-20 10:05:33 WARN cache: eviction pressure high, 92% memory used
+2026-11-20 10:05:34 ERROR orchestrator: container worker-4 exited with code 137 (OOMKilled)
+2026-11-20 10:05:35 ERROR worker: out of memory: cannot allocate 290MB
+2026-11-20 10:05:36 WARN cache: eviction pressure high, 97% memory used
+2026-11-20 10:05:37 WARN cache: eviction pressure high, 94% memory used
+2026-11-20 10:05:38 ERROR worker: out of memory: cannot allocate 337MB
+2026-11-20 10:05:39 ERROR orchestrator: container worker-3 exited with code 137 (OOMKilled)
+2026-11-20 10:05:40 ERROR worker: out of memory: cannot allocate 523MB
+2026-11-20 10:05:41 ERROR worker: out of memory: cannot allocate 698MB

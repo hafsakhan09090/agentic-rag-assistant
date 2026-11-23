@@ -1,0 +1,50 @@
+2026-11-20 10:05:00 INFO auth: user 1441 logged in from 10.0.146.176
+2026-11-20 10:05:01 INFO auth: user 3153 logged in from 10.0.80.129
+2026-11-20 10:05:02 INFO auth: user 4646 logged in from 10.0.168.69
+2026-11-20 10:05:03 INFO auth: user 4910 logged in from 10.0.84.48
+2026-11-20 10:05:04 INFO auth: user 8130 logged in from 10.0.167.179
+2026-11-20 10:05:05 INFO auth: user 2589 logged in from 10.0.27.154
+2026-11-20 10:05:06 WARN auth: failed login for user carol from 203.0.113.22
+2026-11-20 10:05:07 ERROR auth: account locked after repeated failures for user dave
+2026-11-20 10:05:08 ERROR auth: account locked after repeated failures for user bob
+2026-11-20 10:05:09 WARN auth: failed login for user bob from 203.0.113.29
+2026-11-20 10:05:10 WARN auth: failed login for user carol from 203.0.113.8
+2026-11-20 10:05:11 ERROR auth: account locked after repeated failures for user alice
+2026-11-20 10:05:12 WARN auth: failed login for user bob from 203.0.113.11
+2026-11-20 10:05:13 ERROR auth: account locked after repeated failures for user erin
+2026-11-20 10:05:14 WARN auth: failed login for user carol from 203.0.113.11
+2026-11-20 10:05:15 ERROR auth: account locked after repeated failures for user alice
+2026-11-20 10:05:16 ERROR auth: account locked after repeated failures for user carol
+2026-11-20 10:05:17 WARN auth: failed login for user dave from 203.0.113.10
+2026-11-20 10:05:18 WARN auth: failed login for user carol from 203.0.113.15
+2026-11-20 10:05:19 WARN auth: failed login for user dave from 203.0.113.10
+2026-11-20 10:05:20 WARN auth: failed login for user dave from 203.0.113.2
+2026-11-20 10:05:21 ERROR auth: account locked after repeated failures for user bob
+2026-11-20 10:05:22 WARN auth: failed login for user dave from 203.0.113.27
+2026-11-20 10:05:23 ERROR auth: account locked after repeated failures for user erin
+2026-11-20 10:05:24 WARN auth: failed login for user bob from 203.0.113.2
+2026-11-20 10:05:25 WARN auth: failed login for user erin from 203.0.113.10
+2026-11-20 10:05:26 WARN auth: failed login for user bob from 203.0.113.28
+2026-11-20 10:05:27 WARN auth: failed login for user erin from 203.0.113.10
+2026-11-20 10:05:28 WARN auth: failed login for user bob from 203.0.113.2
+2026-11-20 10:05:29 WARN auth: failed login for user erin from 203.0.113.30
+2026-11-20 10:05:30 WARN auth: failed login for user dave from 203.0.113.19
+2026-11-20 10:05:31 WARN auth: failed login for user dave from 203.0.113.24
+2026-11-20 10:05:32 WARN auth: failed login for user erin from 203.0.113.10
+2026-11-20 10:05:33 WARN auth: failed login for user alice from 203.0.113.17
+2026-11-20 10:05:34 WARN auth: failed login for user alice from 203.0.113.30
+2026-11-20 10:05:35 WARN auth: failed login for user carol from 203.0.113.5
+2026-11-20 10:05:36 WARN auth: failed login for user erin from 203.0.113.16
+2026-11-20 10:05:37 ERROR auth: account locked after repeated failures for user alice
+2026-11-20 10:05:38 WARN auth: failed login for user bob from 203.0.113.4
+2026-11-20 10:05:39 WARN auth: failed login for user alice from 203.0.113.6
+2026-11-20 10:05:40 WARN auth: failed login for user carol from 203.0.113.30
+2026-11-20 10:05:41 ERROR auth: account locked after repeated failures for user bob
+2026-11-20 10:05:42 ERROR auth: account locked after repeated failures for user alice
+2026-11-20 10:05:43 WARN auth: failed login for user erin from 203.0.113.28
+2026-11-20 10:05:44 WARN auth: failed login for user carol from 203.0.113.8
+2026-11-20 10:05:45 WARN auth: failed login for user erin from 203.0.113.17
+2026-11-20 10:05:46 WARN auth: failed login for user dave from 203.0.113.11
+2026-11-20 10:05:47 ERROR auth: account locked after repeated failures for user alice
+2026-11-20 10:05:48 ERROR auth: account locked after repeated failures for user bob
+2026-11-20 10:05:49 WARN auth: failed login for user alice from 203.0.113.3

@@ -1,0 +1,8 @@
+# Everything works without these (standard library only). Install what you want to try.
+# Hugging Face embeddings (downloads a model on first use, needs PyTorch)
+sentence-transformers
+# ChromaDB vector database
+chromadb
+# LangChain agent (OpenAI-compatible APIs such as Gemini); add langchain-anthropic for Anthropic
+langchain
+langchain-openai

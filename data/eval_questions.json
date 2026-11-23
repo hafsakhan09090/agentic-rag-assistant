@@ -1,0 +1,331 @@
+[
+  {
+    "id": "q01",
+    "question": "Requests keep queuing and I see 'wait time exceeded' from the database layer. What should I check?",
+    "relevant": [
+      "db-connection-pool-exhaustion"
+    ],
+    "keywords": [
+      "connection",
+      "pool"
+    ]
+  },
+  {
+    "id": "q02",
+    "question": "How do I find which directory is using all my disk space?",
+    "relevant": [
+      "disk-full"
+    ],
+    "keywords": [
+      "du",
+      "df"
+    ]
+  },
+  {
+    "id": "q03",
+    "question": "Many failed logins from the same IP range and accounts are locking. What now?",
+    "relevant": [
+      "auth-brute-force"
+    ],
+    "keywords": [
+      "block",
+      "rate",
+      "multi-factor"
+    ]
+  },
+  {
+    "id": "q04",
+    "question": "Payments upstream calls fail with certificate has expired. How do I verify and fix it?",
+    "relevant": [
+      "tls-certificate-expiry"
+    ],
+    "keywords": [
+      "openssl",
+      "certificate",
+      "renew"
+    ]
+  },
+  {
+    "id": "q05",
+    "question": "Our container keeps restarting with exit code 137. Why?",
+    "relevant": [
+      "out-of-memory"
+    ],
+    "keywords": [
+      "memory",
+      "limit"
+    ]
+  },
+  {
+    "id": "q06",
+    "question": "Queries take over a second and the database CPU is high.",
+    "relevant": [
+      "slow-database-queries"
+    ],
+    "keywords": [
+      "index",
+      "explain"
+    ]
+  },
+  {
+    "id": "q07",
+    "question": "Cache eviction failed for session keys and the hit ratio dropped.",
+    "relevant": [
+      "cache-eviction-failures"
+    ],
+    "keywords": [
+      "ttl",
+      "memory"
+    ]
+  },
+  {
+    "id": "q08",
+    "question": "The gateway returns 504 after thirty seconds. How do I trace the cause?",
+    "relevant": [
+      "upstream-timeouts-and-5xx"
+    ],
+    "keywords": [
+      "dependency",
+      "timeout"
+    ]
+  },
+  {
+    "id": "q09",
+    "question": "A nightly job failed writing a checkpoint. How do I rerun it safely?",
+    "relevant": [
+      "scheduler-job-failures",
+      "disk-full"
+    ],
+    "keywords": [
+      "idempotent",
+      "dependency",
+      "rerun"
+    ]
+  },
+  {
+    "id": "q10",
+    "question": "Errors started right after we shipped a new version. What is the first move?",
+    "relevant": [
+      "deployment-rollback"
+    ],
+    "keywords": [
+      "roll back"
+    ]
+  },
+  {
+    "id": "q11",
+    "question": "Clients get HTTP 429 in bursts from a single API key.",
+    "relevant": [
+      "rate-limiting-429"
+    ],
+    "keywords": [
+      "limit",
+      "back off"
+    ]
+  },
+  {
+    "id": "q12",
+    "question": "The service says it could not resolve host, but only sometimes.",
+    "relevant": [
+      "dns-resolution-failures"
+    ],
+    "keywords": [
+      "dns",
+      "resolver"
+    ]
+  },
+  {
+    "id": "q13",
+    "question": "When should I open a ticket, and what severity is a full outage?",
+    "relevant": [
+      "incident-severity-guide"
+    ],
+    "keywords": [
+      "critical",
+      "ticket"
+    ]
+  },
+  {
+    "id": "q14",
+    "question": "How should I read a log to find where a problem really began?",
+    "relevant": [
+      "reading-logs-guide"
+    ],
+    "keywords": [
+      "first error"
+    ]
+  },
+  {
+    "id": "q15",
+    "question": "What does 'No space left on device' mean and how do I free space?",
+    "relevant": [
+      "disk-full"
+    ],
+    "keywords": [
+      "space",
+      "logrotate",
+      "rotate"
+    ]
+  },
+  {
+    "id": "q16",
+    "question": "Inodes are almost used up even though df shows free space.",
+    "relevant": [
+      "disk-full"
+    ],
+    "keywords": [
+      "inode"
+    ]
+  },
+  {
+    "id": "q17",
+    "question": "How can I tell whether database connections are leaking?",
+    "relevant": [
+      "db-connection-pool-exhaustion"
+    ],
+    "keywords": [
+      "leak"
+    ]
+  },
+  {
+    "id": "q18",
+    "question": "Someone is trying many passwords against our login endpoint.",
+    "relevant": [
+      "auth-brute-force"
+    ],
+    "keywords": [
+      "rate",
+      "block"
+    ]
+  },
+  {
+    "id": "q19",
+    "question": "How do I check a certificate's expiry date from the command line?",
+    "relevant": [
+      "tls-certificate-expiry"
+    ],
+    "keywords": [
+      "openssl"
+    ]
+  },
+  {
+    "id": "q20",
+    "question": "The OOM killer ended our worker process. How do I investigate?",
+    "relevant": [
+      "out-of-memory"
+    ],
+    "keywords": [
+      "dmesg"
+    ]
+  },
+  {
+    "id": "q21",
+    "question": "A missing index is causing full table scans. What do I do?",
+    "relevant": [
+      "slow-database-queries"
+    ],
+    "keywords": [
+      "index"
+    ]
+  },
+  {
+    "id": "q22",
+    "question": "Upstream returned 502 repeatedly and clients keep retrying. How do I stop the retry storm?",
+    "relevant": [
+      "upstream-timeouts-and-5xx"
+    ],
+    "keywords": [
+      "backoff",
+      "circuit breaker"
+    ]
+  },
+  {
+    "id": "q23",
+    "question": "Server time is wrong and TLS verification fails.",
+    "relevant": [
+      "tls-certificate-expiry"
+    ],
+    "keywords": [
+      "ntp",
+      "clock",
+      "time"
+    ]
+  },
+  {
+    "id": "q24",
+    "question": "A retry storm is overloading the API. What controls exist?",
+    "relevant": [
+      "rate-limiting-429"
+    ],
+    "keywords": [
+      "limit",
+      "back off"
+    ]
+  },
+  {
+    "id": "log_db_pool",
+    "question": "Here is a log excerpt from the last few minutes. What is going on and what should I do?",
+    "log_file": "data/logs/db_pool.log",
+    "relevant": [
+      "db-connection-pool-exhaustion"
+    ],
+    "keywords": [
+      "connection",
+      "pool"
+    ],
+    "ticket_expected": true
+  },
+  {
+    "id": "log_disk_full",
+    "question": "Here is a log excerpt from the last few minutes. What is going on and what should I do?",
+    "log_file": "data/logs/disk_full.log",
+    "relevant": [
+      "disk-full"
+    ],
+    "keywords": [
+      "space",
+      "disk"
+    ],
+    "ticket_expected": true
+  },
+  {
+    "id": "log_auth_attack",
+    "question": "Here is a log excerpt from the last few minutes. What is going on and what should I do?",
+    "log_file": "data/logs/auth_attack.log",
+    "relevant": [
+      "auth-brute-force"
+    ],
+    "keywords": [
+      "block",
+      "rate",
+      "multi-factor"
+    ],
+    "ticket_expected": true
+  },
+  {
+    "id": "log_tls_expired",
+    "question": "Here is a log excerpt from the last few minutes. What is going on and what should I do?",
+    "log_file": "data/logs/tls_expired.log",
+    "relevant": [
+      "tls-certificate-expiry"
+    ],
+    "keywords": [
+      "certificate",
+      "renew",
+      "openssl"
+    ],
+    "ticket_expected": true
+  },
+  {
+    "id": "log_oom",
+    "question": "Here is a log excerpt from the last few minutes. What is going on and what should I do?",
+    "log_file": "data/logs/oom.log",
+    "relevant": [
+      "out-of-memory"
+    ],
+    "keywords": [
+      "memory"
+    ],
+    "ticket_expected": true
+  }
+]

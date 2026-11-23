@@ -1,0 +1,50 @@
+2026-11-20 10:05:00 INFO api-gateway: GET /api/orders/244 200 89ms
+2026-11-20 10:05:01 INFO api-gateway: GET /api/orders/134 200 67ms
+2026-11-20 10:05:02 INFO api-gateway: GET /api/orders/938 200 80ms
+2026-11-20 10:05:03 INFO api-gateway: GET /api/orders/641 200 28ms
+2026-11-20 10:05:04 INFO api-gateway: GET /api/orders/621 200 21ms
+2026-11-20 10:05:05 INFO api-gateway: GET /api/orders/931 200 80ms
+2026-11-20 10:05:06 INFO api-gateway: GET /api/orders/266 200 90ms
+2026-11-20 10:05:07 INFO api-gateway: GET /api/orders/240 200 44ms
+2026-11-20 10:05:08 INFO api-gateway: GET /api/orders/735 200 80ms
+2026-11-20 10:05:09 INFO api-gateway: GET /api/orders/554 200 90ms
+2026-11-20 10:05:10 INFO api-gateway: GET /api/orders/488 200 70ms
+2026-11-20 10:05:11 INFO api-gateway: GET /api/orders/655 200 39ms
+2026-11-20 10:05:12 ERROR db-pool: connection pool exhausted (active=50/50), request queued 2984ms
+2026-11-20 10:05:13 WARN db-pool: wait time exceeded threshold: 5285ms
+2026-11-20 10:05:14 ERROR db-pool: connection pool exhausted (active=50/50), request queued 748ms
+2026-11-20 10:05:15 ERROR api-gateway: upstream timeout after 30000ms for GET /api/orders/66
+2026-11-20 10:05:16 ERROR db-pool: connection pool exhausted (active=50/50), request queued 1201ms
+2026-11-20 10:05:17 ERROR db-pool: connection pool exhausted (active=50/50), request queued 1008ms
+2026-11-20 10:05:18 WARN db-pool: wait time exceeded threshold: 3207ms
+2026-11-20 10:05:19 ERROR api-gateway: upstream timeout after 30000ms for GET /api/orders/737
+2026-11-20 10:05:20 WARN db-pool: wait time exceeded threshold: 4175ms
+2026-11-20 10:05:21 WARN db-pool: wait time exceeded threshold: 4497ms
+2026-11-20 10:05:22 ERROR db-pool: connection pool exhausted (active=50/50), request queued 7784ms
+2026-11-20 10:05:23 WARN db-pool: wait time exceeded threshold: 2098ms
+2026-11-20 10:05:24 WARN db-pool: wait time exceeded threshold: 1798ms
+2026-11-20 10:05:25 ERROR db-pool: connection pool exhausted (active=50/50), request queued 8608ms
+2026-11-20 10:05:26 ERROR db-pool: connection pool exhausted (active=50/50), request queued 7646ms
+2026-11-20 10:05:27 WARN db-pool: wait time exceeded threshold: 3466ms
+2026-11-20 10:05:28 ERROR api-gateway: upstream timeout after 30000ms for GET /api/orders/854
+2026-11-20 10:05:29 ERROR db-pool: connection pool exhausted (active=50/50), request queued 6249ms
+2026-11-20 10:05:30 ERROR api-gateway: upstream timeout after 30000ms for GET /api/orders/418
+2026-11-20 10:05:31 ERROR api-gateway: upstream timeout after 30000ms for GET /api/orders/926
+2026-11-20 10:05:32 ERROR db-pool: connection pool exhausted (active=50/50), request queued 969ms
+2026-11-20 10:05:33 WARN db-pool: wait time exceeded threshold: 5962ms
+2026-11-20 10:05:34 ERROR api-gateway: upstream timeout after 30000ms for GET /api/orders/168
+2026-11-20 10:05:35 ERROR api-gateway: upstream timeout after 30000ms for GET /api/orders/335
+2026-11-20 10:05:36 WARN db-pool: wait time exceeded threshold: 5685ms
+2026-11-20 10:05:37 ERROR api-gateway: upstream timeout after 30000ms for GET /api/orders/731
+2026-11-20 10:05:38 ERROR api-gateway: upstream timeout after 30000ms for GET /api/orders/649
+2026-11-20 10:05:39 WARN db-pool: wait time exceeded threshold: 5698ms
+2026-11-20 10:05:40 ERROR db-pool: connection pool exhausted (active=50/50), request queued 2538ms
+2026-11-20 10:05:41 ERROR db-pool: connection pool exhausted (active=50/50), request queued 8421ms
+2026-11-20 10:05:42 ERROR db-pool: connection pool exhausted (active=50/50), request queued 1591ms
+2026-11-20 10:05:43 ERROR api-gateway: upstream timeout after 30000ms for GET /api/orders/155
+2026-11-20 10:05:44 ERROR db-pool: connection pool exhausted (active=50/50), request queued 7498ms
+2026-11-20 10:05:45 WARN db-pool: wait time exceeded threshold: 1974ms
+2026-11-20 10:05:46 ERROR db-pool: connection pool exhausted (active=50/50), request queued 1236ms
+2026-11-20 10:05:47 ERROR db-pool: connection pool exhausted (active=50/50), request queued 5922ms
+2026-11-20 10:05:48 ERROR api-gateway: upstream timeout after 30000ms for GET /api/orders/945
+2026-11-20 10:05:49 WARN db-pool: wait time exceeded threshold: 5140ms

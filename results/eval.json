@@ -1,0 +1,308 @@
+{
+  "retrieval": {
+    "bm25": {
+      "recall@1": 0.966,
+      "recall@3": 1.0,
+      "recall@5": 1.0,
+      "mrr": 0.983,
+      "latency_ms_mean": 0.05,
+      "latency_ms_p95": 0.12
+    },
+    "vector": {
+      "recall@1": 0.931,
+      "recall@3": 1.0,
+      "recall@5": 1.0,
+      "mrr": 0.96,
+      "latency_ms_mean": 0.13,
+      "latency_ms_p95": 0.23
+    },
+    "hybrid": {
+      "recall@1": 0.966,
+      "recall@3": 1.0,
+      "recall@5": 1.0,
+      "mrr": 0.983,
+      "latency_ms_mean": 0.2,
+      "latency_ms_p95": 0.37
+    }
+  },
+  "agent": {
+    "planner": "scripted",
+    "model": "rule-based-v1",
+    "items": 29,
+    "citation_hit_rate": 1.0,
+    "correctness": 0.793,
+    "ticket_accuracy": 1.0,
+    "latency_ms_mean": 0.6,
+    "latency_ms_p95": 1.9,
+    "mean_steps": 1.38,
+    "fallback_steps": 0,
+    "rows": [
+      {
+        "id": "q01",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.5,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q02",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q03",
+        "citation_hit": true,
+        "correct": false,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q04",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.4,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q05",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q06",
+        "citation_hit": true,
+        "correct": false,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q07",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q08",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q09",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q10",
+        "citation_hit": true,
+        "correct": false,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q11",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q12",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q13",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.4,
+        "steps": 2,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q14",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q15",
+        "citation_hit": true,
+        "correct": false,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q16",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q17",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q18",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q19",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q20",
+        "citation_hit": true,
+        "correct": false,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q21",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.2,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q22",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q23",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.3,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "q24",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 0.2,
+        "steps": 1,
+        "blocked": false,
+        "fallback_steps": 0
+      },
+      {
+        "id": "log_db_pool",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 2.0,
+        "steps": 3,
+        "blocked": false,
+        "fallback_steps": 0,
+        "ticket_ok": true
+      },
+      {
+        "id": "log_disk_full",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 1.8,
+        "steps": 3,
+        "blocked": false,
+        "fallback_steps": 0,
+        "ticket_ok": true
+      },
+      {
+        "id": "log_auth_attack",
+        "citation_hit": true,
+        "correct": false,
+        "latency_ms": 1.8,
+        "steps": 3,
+        "blocked": false,
+        "fallback_steps": 0,
+        "ticket_ok": true
+      },
+      {
+        "id": "log_tls_expired",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 1.9,
+        "steps": 3,
+        "blocked": false,
+        "fallback_steps": 0,
+        "ticket_ok": true
+      },
+      {
+        "id": "log_oom",
+        "citation_hit": true,
+        "correct": true,
+        "latency_ms": 1.7,
+        "steps": 3,
+        "blocked": false,
+        "fallback_steps": 0,
+        "ticket_ok": true
+      }
+    ]
+  }
+}
